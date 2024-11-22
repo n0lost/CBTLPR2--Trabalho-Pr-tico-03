@@ -4,8 +4,7 @@
  */
 /**
  *
- * @author João Victor Crivoi Cesar Souza
- *         Atilio Almeida Costa
+
  */
 
 import java.awt.*;
