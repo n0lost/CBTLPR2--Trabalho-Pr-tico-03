@@ -9,9 +9,6 @@ import java.util.Stack;
 
 /**
  *
- * @author João Victor Crivoi Cesar Souza
- *         Atilio Almeida Costa
- */
 public class BotaoClicado implements ActionListener {
     private TextField display;
 
